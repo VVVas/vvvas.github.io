@@ -11,18 +11,11 @@
 </head>
 <body>
 <header>
-
+{{ page.# }}
 </header>
 <section>
 {{ content }}
 </section>
-<ul>
-  {% for page in site %}
-    <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 
 <footer>
 <p>VVVas</p>
