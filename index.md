@@ -1,5 +1,5 @@
 ---
-title: index page
+title: Страница победа!
 layout: default
 ---
 

@@ -20,7 +20,6 @@ header div, footer div {
 	width: 100%;
 	max-width: 1200px;
 	margin: 0 auto;
-	padding: 0 2em;
 	background-color: #f1f1f1;
 }
 header div a:link, header div a:active, header div a:visited, header div a:hover,
