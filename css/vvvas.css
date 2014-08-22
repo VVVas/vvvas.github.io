@@ -1,1 +1,38 @@
-h2 { padding-top: 60px; }
+html { overflow: scroll; }
+body { 
+	margin: 0;
+	background-image: url(http://img.artlebedev.ru/everything/pattern/morris-inspired/morris-inspired.gif);
+}
+header, footer {
+	position: fixed;
+	z-index: 20;
+	width: 100%;
+	font-family: Georgia, serif;
+}
+header { top: 0; }
+footer { bottom: 0; }
+
+header div, footer div {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+	background-color: #f1f1f1;
+	opacity: .7;
+}
+header div a:link, header div a:active, header div a:visited, header div a:hover,
+footer div a:link, footer div a:active, footer div a:visited, footer div a:hover {
+	color: #000; 
+	text-decoration: none;
+	padding: .4em 0 .4em .4em ;
+	line-height: 2em;
+	white-space: nowrap;
+}
+section {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1200px;
+	padding-top: 3em;
+}
+section div {
+	background-color: #fff;
+}
