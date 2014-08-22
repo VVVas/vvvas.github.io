@@ -9,8 +9,14 @@ header, footer {
 	width: 100%;
 	font-family: Georgia, serif;
 }
-header { top: 0; }
-footer { bottom: 0; }
+header {
+	top: 0;
+	padding-bottom: 1em;
+}
+footer {
+	bottom: 0;
+	padding-top: 1em;
+}
 
 header div, footer div {
 	width: 100%;
