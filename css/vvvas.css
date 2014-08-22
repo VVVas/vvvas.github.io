@@ -1,7 +1,7 @@
 html { overflow: scroll; }
 body { 
 	margin: 0;
-	background-image: url(http://img.artlebedev.ru/everything/pattern/morris-inspired/morris-inspired.gif);
+	background-color: CC9999;
 }
 header, footer {
 	position: fixed;
@@ -36,6 +36,8 @@ section {
 	max-width: 1200px;
 	padding-top: 2em;
 }
+
+#co { padding-bottom: 2em; }
 
 section div {
 	background-color: #fff;
