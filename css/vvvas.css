@@ -30,13 +30,12 @@ footer {
 /* adaptive for all */
 
 @media all and (max-width: 1000px) {
-	body { 
-		margin: 0 auto;
-		width: 100%;
+	body {
 		max-width: 520px;
 	}
 	#main, #text, #about {
 		float: none;
+		width: 100%;
 		max-width: 520px;
 	}
 }
