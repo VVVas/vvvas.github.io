@@ -5,22 +5,13 @@ body {
 	max-width: 1000px;
 }
 
-header {
-	padding: 10px 10px 0 10px;
+header, footer, section {
+	padding: 1%;
 }
 
-footer, section {
-	padding: 10px;
-}
-
-#main {
+#main, #text, #about {
 	float: left;
-	width: 520px;
-}
-
-#text, #about {
-	float: left;
-	max-width: 440px;
+	width: 50%;
 }
 
 footer {
@@ -35,8 +26,6 @@ footer {
 	}
 	#main, #text, #about {
 		float: none;
-		width: 90%;
-		max-width: 520px;
-		border: 1px #999 solid;
+		width: 100%;
 	}
 }
