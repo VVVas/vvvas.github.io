@@ -11,7 +11,7 @@ header, footer, section {
 
 #main, #text, #about {
 	float: left;
-	width: 50%;
+	width: 46%;
 }
 
 footer {
@@ -26,6 +26,6 @@ footer {
 	}
 	#main, #text, #about {
 		float: none;
-		width: 100%;
+		width: 98%;
 	}
 }
