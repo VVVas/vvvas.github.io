@@ -13,3 +13,7 @@ section {
 	float: left;
 	max-width: 300px;
 }
+
+footer {
+	clear: both;
+}
