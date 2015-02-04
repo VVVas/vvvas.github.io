@@ -7,5 +7,5 @@ body {
 header, footer, section {
 	margin: 1em;
 	border: 1px;
-	max-width: 500px;
+	max-width: 300px;
 }
