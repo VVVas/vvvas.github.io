@@ -15,7 +15,7 @@ footer, section {
 
 #main {
 	float: left;
-	max-width: 520px;
+	width: 520px;
 }
 
 #text, #about {
