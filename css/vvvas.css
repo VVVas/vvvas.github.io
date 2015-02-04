@@ -4,7 +4,12 @@ body {
 	width: 100%;
 	max-width: 1000px;
 }
-header, footer, section {
+
+header {
+	margin: 1em 1em 0 1em;
+}
+
+footer, section {
 	margin: 1em;
 	border: 1px #999 solid;
 }
@@ -14,6 +19,6 @@ section {
 	max-width: 300px;
 }
 
-header, footer {
+footer {
 	clear: both;
 }
