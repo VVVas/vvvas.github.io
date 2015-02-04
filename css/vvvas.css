@@ -6,6 +6,6 @@ body {
 }
 header, footer, section {
 	margin: 1em;
-	border: 1px;
+	border: 1px #000 solid;
 	max-width: 300px;
 }
