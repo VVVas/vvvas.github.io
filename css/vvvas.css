@@ -1,7 +1,7 @@
 html { overflow: scroll; }
 body { 
 	margin: 0 auto;
-	width: 90%;
+	width: 100%;
 	max-width: 1000px;
 }
 
@@ -35,8 +35,7 @@ footer {
 	}
 	#main, #text, #about {
 		float: none;
-		width: 100%;
-		max-width: 520px;
+		width: 90%;
 		border: 1px #999 solid;
 	}
 }
