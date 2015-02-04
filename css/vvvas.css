@@ -26,3 +26,17 @@ footer, section {
 footer {
 	clear: both;
 }
+
+/* adaptive for all */
+
+@media all and (max-width: 1000px) {
+	body { 
+		margin: 0 auto;
+		width: 100%;
+		max-width: 520px;
+	}
+	#main, #text, #about {
+		float: none;
+		width: 520px;
+	}
+}
