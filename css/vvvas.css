@@ -36,6 +36,7 @@ footer {
 	#main, #text, #about {
 		float: none;
 		width: 90%;
+		max-width: 520px;
 		border: 1px #999 solid;
 	}
 }
