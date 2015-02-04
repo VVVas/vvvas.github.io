@@ -12,6 +12,7 @@ header, footer, section {
 #main, #text, #about {
 	float: left;
 	width: 46%;
+	text-align: justify;
 }
 
 footer {
