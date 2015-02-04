@@ -16,6 +16,7 @@ footer, section {
 
 section {
 	float: left;
+	width: 100%;
 	max-width: 300px;
 }
 
