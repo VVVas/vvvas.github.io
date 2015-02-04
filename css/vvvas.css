@@ -21,7 +21,7 @@ footer, section {
 #text, #about {
 	float: left;
 	width: 100%;
-	max-width: 480px;
+	max-width: 460px;
 }
 
 footer {
