@@ -6,20 +6,3 @@ header, footer, section {
 	width: 100%;
 	max-width: 1200px;
 }
-header {
-
-}
-footer {
-
-}
-
-section {
-	max-width: 1200px;
-	padding-top: 2em;
-}
-
-section div {
-	background-color: #fff;
-	margin: 1em;
-	padding: 1em;
-}
