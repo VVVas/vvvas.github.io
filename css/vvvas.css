@@ -9,13 +9,11 @@ header {
 	margin: 10px 10px 0 10px;
 }
 
-#main { }
-
 footer, section {
 	margin: 10px;
 }
 
-section {
+#text, #about {
 	float: left;
 	width: 100%;
 	max-width: 320px;
