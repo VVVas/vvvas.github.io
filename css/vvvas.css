@@ -9,6 +9,11 @@ header {
 	margin: 10px 10px 0 10px;
 }
 
+#main {
+	width: auto;
+	max-width: auto;
+}
+
 footer, section {
 	margin: 10px;
 	border: 1px #999 solid;
