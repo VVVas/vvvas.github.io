@@ -6,11 +6,11 @@ body {
 }
 
 header {
-	margin: 10px 10px 0 10px;
+	padding: 10px 10px 0 10px;
 }
 
 footer, section {
-	margin: 10px;
+	padding: 10px;
 }
 
 #main {
@@ -31,7 +31,7 @@ footer {
 
 @media all and (max-width: 1000px) {
 	body {
-		max-width: 520px;
+		max-width: 540px;
 	}
 	#main, #text, #about {
 		float: none;
