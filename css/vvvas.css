@@ -19,7 +19,7 @@ footer, section {
 }
 
 #text, #about {
-	float: right;
+	float: left;
 	width: 100%;
 	max-width: 480px;
 }
