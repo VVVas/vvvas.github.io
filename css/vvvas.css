@@ -6,11 +6,11 @@ body {
 }
 
 header {
-	margin: 1em 1em 0 1em;
+	margin: 10px 10px 0 10px;
 }
 
 footer, section {
-	margin: 1em;
+	margin: 10px;
 	border: 1px #999 solid;
 }
 
