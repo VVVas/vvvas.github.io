@@ -15,12 +15,13 @@ footer, section {
 
 #main {
 	float: left;
+	width: 520px;
 }
 
 #text, #about {
-	float: left;
+	float: right;
 	width: 100%;
-	max-width: 320px;
+	max-width: 480px;
 }
 
 footer {
