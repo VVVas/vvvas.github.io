@@ -23,7 +23,7 @@ footer {
 
 @media all and (max-width: 1000px) {
 	body {
-		max-width: 540px;
+		max-width: 520px;
 	}
 	#main, #text, #about {
 		float: none;
